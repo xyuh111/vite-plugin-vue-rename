@@ -26,6 +26,7 @@ export default () => {
 }
 
 ```
+![](https://github.com/xyuh111/vite-plugin-vue-rename/blob/master/IMG/d52729ca.png)
 
 
 3. 组件中使用
@@ -42,6 +43,7 @@ import { onMounted } from 'vue'
 onMounted(() => {})
 </script>
 ```
+![](https://github.com/xyuh111/vite-plugin-vue-rename/blob/master/IMG/78b2f5d0.png)
 
 
 4. vite-plugin-vue-rename 插件处理后，
@@ -81,4 +83,6 @@ export default defineComponent({
 });
 </script>
 ```
+
+![](https://github.com/xyuh111/vite-plugin-vue-rename/blob/master/IMG/azYucG5n.png)
 
