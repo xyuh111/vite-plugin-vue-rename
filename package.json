@@ -12,5 +12,9 @@
   "scripts": {
   },
   "author": "Xie Yuhui <i@xieyuhui.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/array-union.git"
+  }
 }
