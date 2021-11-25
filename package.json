@@ -15,6 +15,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sindresorhus/array-union.git"
+    "url": "git+https://github.com/xyuh111/vite-plugin-vue-rename"
   }
 }
