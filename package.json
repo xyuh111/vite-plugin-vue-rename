@@ -1,0 +1,16 @@
+{
+  "name": "vite-plugin-vue-rename",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "vite",
+    "plugin",
+    "vue",
+    "rename"
+  ],
+  "scripts": {
+  },
+  "author": "Xie Yuhui <i@xieyuhui.com>",
+  "license": "ISC"
+}
